@@ -1,0 +1,8 @@
+name = "librechat"
+type = "javascript"
+account_id = "4a377cb358c1a2302fffe682bf781499"
+workers_dev = true
+compatibility_date = "2025-04-03"
+
+[build]
+command = "npm run build"
